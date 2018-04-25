@@ -1,0 +1,25 @@
+{
+  "name": "CORE-FT-data-structures",
+  "version": "1.0.0",
+  "description":
+    "In this 1 day sprint you will be implementing 2 data structures that are commonly used in computer science: stacks and queues. You have already learned about one use of stacks: for keeping track of a pile of functions that are in the process of execution. A queue data structure would be useful on occasions where you want to process tasks in the same order as they arrive, such as in a messaging application or a printer queue.",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "mocha ./spec/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/northcoders/CORE-FT-data-structures.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/northcoders/CORE-FT-data-structures/issues"
+  },
+  "homepage": "https://github.com/northcoders/CORE-FT-data-structures#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1"
+  }
+}
